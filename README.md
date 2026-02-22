@@ -1,1 +1,1 @@
-# ml-laptop-dataset
+# Machine Learning Course - Sunrise weekend
