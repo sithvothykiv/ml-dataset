@@ -1,3 +1,3 @@
 # Data Science G15 - Weekend
 
-# Machine Learning Course
+## Machine Learning Course
