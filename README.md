@@ -1,1 +1,3 @@
-# Machine Learning Course - Sunrise weekend
+# Data Science G15 - Weekend
+
+# Machine Learning Course
